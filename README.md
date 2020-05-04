@@ -8,3 +8,4 @@ The CPU design consisted of different modules that were linked to create a funct
 
 <img src="Images/1.png">
 <img src="Images/2.png">
+<img src="Images/3.png">
